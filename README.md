@@ -1,7 +1,7 @@
 #  Hola, Soy Emiliano! 
 
  Soy un **Estudiante de la Ingenieria en Ciencias de la Computacion** de **Puebla, Mexico**.  
- Passionate about **web development**, **Data Base**, and know something new every day.
+ Apasionado en  **Desarrollo de Paginas Web**, **Base de datos**.
 
 ---
 

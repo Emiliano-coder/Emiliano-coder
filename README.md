@@ -49,14 +49,6 @@ Clasificación de opiniones en Twitter usando SBERT + KMeans + PCA para temas po
 
 ---
 
-###  Simulación de Incendios con MPI
-Simulación distribuida de propagación de incendios y actuación de bomberos usando MPI en C.
-
-**Tecnologías:** C, MPI (OpenMPI), Ubuntu  
-🔗 [Ver repositorio](https://github.com/Emiliano-coder/incendio-mpi)
-
----
-
 ###  Reconocimiento de Señales Viales (CNN)
 Entrenamiento de una red neuronal para clasificar señales de tráfico usando el dataset GTSRB.
 

@@ -37,7 +37,7 @@
 Desarrollé una tienda en línea con carrito de compras, sistema de registro/login y pasarela de pago simulada.
 
 **Tecnologías:** HTML, CSS, JavaScript, PHP, MySQL  
-🔗 [Ver repositorio]([https://github.com/Emiliano-coder/tienda-online](https://github.com/Emiliano-coder/Inicio_proy)) | 🌐 [Demo en vivo](https://elestadodemaximacoherencia.com/proyecto/html/index.html)
+🔗 [Ver repositorio](https://github.com/Emiliano-coder/Inicio_proy) | 🌐 [Demo en vivo](https://elestadodemaximacoherencia.com/proyecto/html/index.html)
 
 ---
 

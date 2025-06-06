@@ -61,4 +61,4 @@ Clasificación de opiniones en Twitter usando SBERT + KMeans + PCA para temas po
 Entrenamiento de una red neuronal para clasificar señales de tráfico usando el dataset GTSRB.
 
 **Tecnologías:** Python, TensorFlow/Keras, OpenCV  
-🔗 [Ver repositorio](https:)
+🔗 [Ver repositorio](https://github.com/Emiliano-coder/Modelo_CNN_ProcImgs)

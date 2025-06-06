@@ -5,9 +5,9 @@
 
 ---
 
-##  Pagina Personal
-🔗 [Visita mi pagina personal](https://tusitio.com)  
+Contacto 
 📬 Email: [olivosemiliano@gmail.com](mailto:tu.correo@email.com)
+ Num.cel: +52 2223979589
 
 ---
 
@@ -47,13 +47,6 @@ Desarrollé una tienda en línea con carrito de compras, sistema de registro/log
 **Tecnologías:** HTML, CSS, JavaScript, PHP, MySQL  
 🔗 [Ver repositorio](https://github.com/Emiliano-coder/Inicio_proy) | 🌐 [Demo en vivo](https://elestadodemaximacoherencia.com/proyecto/html/index.html)
 
----
-
-###  Análisis de Tweets con IA
-Clasificación de opiniones en Twitter usando SBERT + KMeans + PCA para temas políticos.
-
-**Tecnologías:** Python, Scikit-learn, Pandas, Matplotlib  
-🔗 [Ver repositorio](https://github.com/Emiliano-coder/analisis-tweets) | 📄 [Ver informe](https://tusitio.com/informe)
 
 ---
 

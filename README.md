@@ -33,7 +33,7 @@ Contacto
 
 ##  Mis Proyectos
 ###  Pagina Tren Maya
-Se desarrollo una pagina web en el cual se uso OpenStreesMaps en el cual nos muestra la ruta del tren maya y en el cual nos puede generar distintas rutas, al igual ejecutar el algoritmo del Agente Viajero
+Se desarrollo una pagina web en el cual se uso OpenStreesMaps, nos muestra la ruta del tren maya y se puede generar distintas rutas, al igual ejecutar el algoritmo del Agente Viajero
 
 **Tecnologías:** HTML, CSS, JavaScript
 

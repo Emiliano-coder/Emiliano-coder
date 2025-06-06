@@ -1,6 +1,6 @@
 #  Hola, Soy Emiliano! 
 
- Soy un **Estudiante de la Ingenieria en Ciencias de la Computacion** de **Puebla, Mexico**.  
+ Soy un **Estudiante de Ingenieria en Ciencias de la Computacion** de **Puebla, Mexico**.  
  Apasionado en  **Desarrollo de Paginas Web**, **Base de datos**.
 
 ---
